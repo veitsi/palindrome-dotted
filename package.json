@@ -1,0 +1,9 @@
+{
+  "name"         : "pali",
+  "version"      : "0.0.1",
+  "description"  : "Scrape le web.",
+  "main"         : "pali.js",
+  "author"       : "Scotch",
+  "dependencies" : {
+  }
+}
